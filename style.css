@@ -1,0 +1,18 @@
+.p-3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: auto;
+}
+
+.card-title {
+  font-size: 40px;
+}
+
+.table {
+  color: white;
+}
+
+.d-inline-flex {
+  margin-left: 10%;
+}
